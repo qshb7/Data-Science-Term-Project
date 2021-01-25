@@ -1,4 +1,3 @@
-# time   2021.1
 # author zzh
 import requests
 from bs4 import BeautifulSoup
